@@ -8,11 +8,11 @@ let collectAll = async () => {
     let textOne = document.querySelector('p')
     textOne.innerHTML = `"${seeMe.slip.advice}"`
  
-    let btn = document.querySelector('img');
-    btn.addEventListener('click', collectAll);
+
 }
 collectAll()
 
-
+// let btn = document.querySelector('img');
+// btn.addEventListener('click', collectAll);
 // alert('come')
 // console.log(btn)

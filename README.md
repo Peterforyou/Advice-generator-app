@@ -20,7 +20,7 @@ This is an Advice Generator App gotten from Frontend mentor to aid my proficienc
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/px-to-rem-converter/)
+- Live Site URL:(https://peterforyou.github.io/Advice-generator-app/)
 
 ### Built with
 
